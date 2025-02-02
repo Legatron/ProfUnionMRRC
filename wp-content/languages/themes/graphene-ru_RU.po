@@ -1,0 +1,1925 @@
+# Translation of Themes - Graphene in Russian
+# This file is distributed under the same license as the Themes - Graphene package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-02 08:30:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Graphene\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Graphene"
+msgstr "Graphene"
+
+#: admin/customizer/graphene-plus.php:35
+msgid "Graphene: Page Builder"
+msgstr "Graphene: конструктор страницы"
+
+#: yarpp-template-single.php:14
+msgid "Related posts"
+msgstr "Похожие записи"
+
+#: admin/customizer/options-general.php:639
+msgid "Brands logo"
+msgstr "Лого брендов"
+
+#: admin/customizer/options-general.php:634
+msgid "Open links in new window"
+msgstr "Открывать ссылки в новом окне (или вкладке)"
+
+#: admin/customizer/options-general.php:628
+msgid "Mentions bar tagline"
+msgstr "Слоган для панели упоминаний"
+
+#: admin/customizer/options-general.php:622
+msgid "Mentions bar title"
+msgstr "Название панели упоминаний"
+
+#: admin/customizer/options-general.php:615
+msgid "All posts and pages"
+msgstr "Все записи и страницы"
+
+#: admin/customizer/options-general.php:614
+msgid "All pages"
+msgstr "Все страницы"
+
+#: admin/customizer/options-general.php:613
+msgid "Front page"
+msgstr "Главная страница"
+
+#: admin/customizer/options-general.php:604
+msgid "Showcase the awards, reviews, or mentions you have received from other organisations or those you are affiliated to."
+msgstr "Показывать награды, обзоры или упоминания от других организаций или тех, к которым вы относитесь."
+
+#: admin/customizer/options-general.php:602
+msgid "Mentions Bar"
+msgstr "Панель упоминаний"
+
+#: admin/customizer/options-general.php:474
+msgid "Top bar and footer"
+msgstr "Верхняя панель и подвал"
+
+#: admin/customizer/options-general.php:469
+#: admin/customizer/options-general.php:610
+msgid "Display in"
+msgstr "Показать на"
+
+#: admin/customizer/options-general.php:119
+msgid "Banner"
+msgstr "Баннер"
+
+#: admin/customizer/options-general.php:19
+msgid "Right"
+msgstr "Справа"
+
+#: admin/customizer/options-general.php:18
+msgid "Center"
+msgstr "Центр"
+
+#: admin/customizer/options-general.php:17
+msgid "Left"
+msgstr "Слева"
+
+#: admin/customizer/options-general.php:15
+msgid "Site Title and Tagline alignment"
+msgstr "Выравнивание названия и слогана сайта"
+
+#: admin/customizer/options-display.php:137
+msgid "Restrict previous/next post navigation to within the same category"
+msgstr "Ограничить навигацию по записям (вперед-назад) в рамках одной рубрики"
+
+#: admin/customizer/options-display.php:131
+msgid "Hide previous/next post navigation"
+msgstr "Скрыть навигацию по записям (вперед-назад)"
+
+#: admin/customizer/options-display.php:31
+msgid "In mobile view, display left column above the main content"
+msgstr "Для мобильных, показывать левый столбец над основным содержимым"
+
+#: admin/customizer/options-display.php:24
+msgid "Full width stretched"
+msgstr "Растянуть на полную ширину"
+
+#: admin/customizer/customizer.php:53
+msgid "New"
+msgstr "Новое"
+
+#: admin/customizer/controls.php:442 admin/customizer/controls.php:457
+msgid "Add brand logo"
+msgstr "Добавить лого бренда"
+
+#: admin/customizer/controls.php:431 admin/customizer/controls.php:453
+#: admin/customizer/customizer.php:51
+msgid "Links to"
+msgstr "Ссылка на"
+
+#: admin/customizer/controls.php:424 admin/customizer/controls.php:446
+#: admin/customizer/customizer.php:50 admin/user.php:24
+msgid "Select image"
+msgstr "Выберите изображение"
+
+#: admin/customizer/controls.php:424 admin/customizer/controls.php:446
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: inc/widgets.php:17
+msgid "Mobile only"
+msgstr "Только для мобильных устройств"
+
+#: inc/widgets.php:16
+msgid "Desktop only"
+msgstr "Только для стационарных устройств"
+
+#: inc/widgets.php:15
+msgid "Desktop and mobile"
+msgstr "Для мобильных и стационарных устройств"
+
+#: inc/widgets.php:12
+msgid "Display on:"
+msgstr "Показывать на:"
+
+#: inc/setup.php:259
+msgid "Graphene - Left Sidebar"
+msgstr "Graphene - Левая панель"
+
+#: inc/setup.php:251
+msgid "Graphene - Right Sidebar"
+msgstr "Graphene - Правая панель"
+
+#: admin/user.php:138
+msgid "If no URL is defined here, the your %s will be used."
+msgstr "Если тут не задан URL, будет использоваться ваш %s."
+
+#: admin/user.php:134
+msgid "URL to profile image"
+msgstr "URL изображения профиля"
+
+#: admin/user.php:131
+msgid "Additional user information"
+msgstr "Дополнительная информация о пользователе"
+
+#: admin/customizer/options-general.php:405
+msgid "When left empty, this will default to %s."
+msgstr "Если оставлено пустым, будет использоваться по умолчанию %s."
+
+#: admin/customizer/options-general.php:118
+msgid "Card"
+msgstr "Карточка"
+
+#: admin/customizer/options-general.php:117
+msgid "Standard"
+msgstr "Стандарт"
+
+#: admin/customizer/options-general.php:115
+msgid "Display style"
+msgstr "Стиль изображения"
+
+#: admin/customizer/options-display.php:186
+msgid "WP Editor"
+msgstr "Редактор WP"
+
+#: admin/customizer/graphene-plus.php:151
+msgid "Advertisements"
+msgstr "Реклама"
+
+#: admin/customizer/graphene-plus.php:139
+msgid "Social sharing"
+msgstr "Поделиться в социальных сетях"
+
+#: admin/customizer/graphene-plus.php:127
+#: admin/customizer/graphene-plus.php:163
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: admin/customizer/graphene-plus.php:106
+msgid "Typography"
+msgstr "Типография"
+
+#: admin/customizer/graphene-plus.php:93
+msgid "Posts layout"
+msgstr "Макет записей"
+
+#: admin/customizer/graphene-plus.php:31
+msgid "Graphene: Accelerated Mobile Pages (AMP)"
+msgstr "Graphene: Accelerated Mobile Pages (AMP)"
+
+#: admin/customizer/controls.php:575
+msgid "This feature is available in Graphene Plus"
+msgstr "Эта возможность доступна в Graphene Plus"
+
+#: admin/user.php:32 admin/user.php:146
+msgid "Use this image as your comments avatar"
+msgstr "Использовать это изображение как аватар для ваших комментариев"
+
+#: admin/options.php:85
+msgid "Help translate into %s"
+msgstr "Помочь перевести на %s"
+
+#: admin/customizer/options-general.php:221
+msgid "Best image available from post"
+msgstr "Лучшее доступное изображение записи"
+
+#: admin/customizer/options-colours.php:232
+msgid "Widget area link text"
+msgstr "Текст ссылки области виджетов"
+
+#: admin/customizer/options-colours.php:231
+msgid "Widget area text"
+msgstr "Текст области виджетов"
+
+#: admin/customizer/options-colours.php:230
+msgid "Widget area border"
+msgstr "Бордюр области виджетов"
+
+#: admin/customizer/options-colours.php:229
+msgid "Widget area background"
+msgstr "Фон области виджетов"
+
+#: admin/options.php:40
+msgid "Get Priority Support"
+msgstr "Получите приоритетную поддержку"
+
+#: admin/customizer/options-general.php:244
+msgid "Slider height (mobile)"
+msgstr "Высота слайдера на мобильных устройствах"
+
+#: admin/customizer/options-general.php:151
+msgid "Include posts with featured image only"
+msgstr "Включить записи только с изображением записи"
+
+#: admin/customizer/controls.php:349 admin/customizer/controls.php:395
+msgid "Icon name"
+msgstr "Имя значка"
+
+#. translators: %1$s will be replaced by the taxonomy singular name, %2$s will
+#. be replaced by the term title
+#: taxonomy.php:15
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: tag.php:13
+msgid "Tag: <span>%s</span>"
+msgstr "Метка: <span>%s</span>"
+
+#. translators: %1$d is the number of results found, %2$s is the search term
+#: search.php:18
+msgid "%1$s result for %2$s"
+msgid_plural "%1$s results for %2$s"
+msgstr[0] "%1$s результат для %2$s"
+msgstr[1] "%1$s результата для %2$s"
+msgstr[2] "%1$s результатов для %2$s"
+
+#: inc/loop.php:107 loop.php:53
+msgid "Continue reading"
+msgstr "Читать далее"
+
+#: inc/slider.php:95 inc/slider.php:115
+msgid "View post"
+msgstr "Посмотреть запись"
+
+#: inc/setup.php:327
+msgid "Graphene - Header"
+msgstr "Graphene - заголовок"
+
+#: inc/setup.php:315
+msgid "Graphene - Footer (Front Page)"
+msgstr "Graphene - подвал (главная страница)"
+
+#: inc/setup.php:304
+msgid "Graphene - Sidebar Two (Front Page)"
+msgstr "Graphene - боковая панель 2 (главная страница)"
+
+#: inc/setup.php:295
+msgid "Graphene - Sidebar One (Front Page)"
+msgstr "Graphene - боковая панель 1 (главная страница)"
+
+#: inc/setup.php:278
+msgid "Graphene - Footer"
+msgstr "Graphene - подвал"
+
+#: inc/setup.php:187
+msgid "Road"
+msgstr "Дорога"
+
+#: inc/setup.php:182
+msgid "Mountains"
+msgstr "Горы"
+
+#: inc/setup.php:177
+msgid "Forest"
+msgstr "Лес"
+
+#: inc/scripts.php:160
+msgid "All comments loaded!"
+msgstr "Все комментарии загружены!"
+
+#: inc/scripts.php:147
+msgid "All loaded!"
+msgstr "Всё загружено!"
+
+#: inc/menus.php:298
+msgid "#%d (no title)"
+msgstr "#%d (без названия)"
+
+#: inc/menus.php:181
+msgid "available icons"
+msgstr "доступные значки"
+
+#: inc/menus.php:181
+msgid "Choose from 580+ %s"
+msgstr "Выбор из 580+ %s"
+
+#: inc/menus.php:139
+msgid "FontAwesome Icon Name"
+msgstr "Имя значков FontAwesome"
+
+#: admin/customizer/customizer.php:74 admin/customizer/options-general.php:405
+#: inc/loop.php:1095
+msgid "In this section"
+msgstr "В этом разделе"
+
+#: inc/loop.php:1004
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/loop.php:924
+msgid "Filed under %2$s"
+msgstr "Опубликовано в %2$s"
+
+#: inc/loop.php:923
+msgid "By %1$s in %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/loop.php:242
+msgid "Next &raquo;"
+msgstr "Вперед &raquo;"
+
+#: inc/loop.php:241
+msgid "&laquo; Prev"
+msgstr "&laquo; Назад"
+
+#: inc/infinite-scroll.php:99 inc/scripts.php:131
+msgid "Load more"
+msgstr "Читать далее"
+
+#: inc/comments.php:275
+msgid "Author"
+msgstr "Автор"
+
+#: inc/comments.php:264
+msgid "%1$s on %2$s <span class=\"time\">at %3$s</span>"
+msgstr "%1$s к %2$s <span class=\"time\">в %3$s</span>"
+
+#: inc/comments.php:88
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: inc/comments.php:62
+msgid "Website (optional)"
+msgstr "Сайт (необязательно)"
+
+#: inc/comments.php:54
+msgid "Name"
+msgstr "Имя"
+
+#: header.php:94
+msgid "Toggle navigation"
+msgstr "Вкл/выкл навигации"
+
+#: header.php:44
+msgid "Toggle search form"
+msgstr "Вкл/выкл формы поиска"
+
+#: footer.php:93
+msgid "Made with %1$s by %2$s."
+msgstr "Создано с помощью %1$s автором %2$s."
+
+#: comments.php:139
+msgid "Your email address will not be published."
+msgstr "Ваш адрес электронной почты не будет опубликован."
+
+#: category.php:13
+msgid "Category: <span>%s</span>"
+msgstr "Рубрика: <span>%s</span>"
+
+#: author.php:32
+msgid "Author's posts"
+msgstr "Статьи автора"
+
+#: archive.php:24 archive.php:26 archive.php:30
+msgid "%s archive"
+msgstr "Архив %s"
+
+#: admin/user.php:91 admin/user.php:173
+msgid "Social media URLs"
+msgstr "Ссылки на социальные сети"
+
+#: admin/user.php:81 admin/user.php:163
+msgid "Current location"
+msgstr "Текущее местоположение"
+
+#: admin/user.php:76 admin/user.php:157
+msgid "Remove email address from your author bio."
+msgstr "Убрать адрес электронной почты из вашей биографии автора."
+
+#: admin/user.php:72 admin/user.php:153
+msgid "Hide email"
+msgstr "Скрыть адрес эл.почты"
+
+#: admin/options.php:94
+msgid "News and announcement"
+msgstr "Новости и анонсы"
+
+#: admin/options.php:73
+msgid "Make a contribution"
+msgstr "Внести вклад"
+
+#: admin/options.php:39
+msgid "Get community support"
+msgstr "Получить помощь сообщества"
+
+#: admin/options.php:33
+msgid "Customise Graphene settings"
+msgstr "Персонализация настроек Graphene"
+
+#: admin/options.php:27
+msgid "Version %1$s by %2$s"
+msgstr "Версия %1$s автора %2$s"
+
+#: admin/customizer/options-utilities.php:53
+msgid "Export legacy Graphene settings"
+msgstr "Экспорт старых настроек Graphene"
+
+#: admin/customizer/options-utilities.php:46
+msgid "Legacy settings"
+msgstr "Старые настройки"
+
+#: admin/customizer/options-utilities.php:26
+msgid "Import & export settings"
+msgstr "Импорт и экспорт настроек"
+
+#: admin/customizer/options-utilities.php:19
+msgid "Reset theme settings"
+msgstr "Сбросить настройки темы"
+
+#: admin/customizer/options-import.php:166
+msgid "The uploaded file does not contain valid Graphene options. Please check and try again."
+msgstr "Загруженый файл не содержит настроек Graphene. Проверьте файл и попробуйте еще раз."
+
+#: admin/customizer/options-import.php:165
+msgid "Uploaded file does not contain any setting to import. Please check and try again."
+msgstr "Загруженый файл не содержит настроек для импорта. Проверьте файл и попробуйте еще раз."
+
+#: admin/customizer/options-import.php:161
+msgid "Could not read uploaded file. Please check the file and try again."
+msgstr "Нельзя прочитать загруженый файл. Проверьте файл и попробуйте еще раз."
+
+#: admin/customizer/options-import.php:132
+msgid "Authorisation checks failed to perform this operation."
+msgstr "Проверка авторизации неудачна для выполнения этого действия."
+
+#: admin/customizer/options-general.php:683
+msgid "Clean up single posts and pages when printing"
+msgstr "Очистить индивидуальные записи и страницы для печати"
+
+#: admin/customizer/options-general.php:676
+msgid "Print"
+msgstr "Печать"
+
+#: admin/customizer/options-general.php:669
+msgid "Disable \"Return to top\" button"
+msgstr "Отключить кнопку \"перейти наверх\""
+
+#: admin/customizer/options-general.php:591
+msgid "The analytics code will be added inside the %s element of all pages in this site."
+msgstr "Код аналитики будет добавлен внутрь элемента %s всех страниц этого сайта"
+
+#: admin/customizer/options-general.php:590
+msgid "Analytics code"
+msgstr "Код аналитики"
+
+#: admin/customizer/options-general.php:584
+msgid "Enable analytics tracking"
+msgstr "Включить отслеживание аналитики"
+
+#: admin/customizer/options-general.php:577
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: admin/customizer/options-general.php:566
+msgid "Ads code"
+msgstr "Рекламный код"
+
+#: admin/customizer/options-general.php:554
+msgid "Include Front Page"
+msgstr "Включить главную страницу"
+
+#: admin/customizer/options-general.php:548
+msgid "Show ads"
+msgstr "Показывать рекламу"
+
+#: admin/customizer/options-general.php:541
+msgid "Ads"
+msgstr "Реклама"
+
+#: admin/customizer/options-general.php:529
+msgid "Social sharing buttons code"
+msgstr "Код кнопок социальных сетей"
+
+#: admin/customizer/options-general.php:522
+msgid "Top and bottom of posts"
+msgstr "Сверху и снизу записи"
+
+#: admin/customizer/options-general.php:518
+msgid "Buttons location"
+msgstr "Расположение кнопок"
+
+#: admin/customizer/options-general.php:512
+msgid "Include home and archive pages"
+msgstr "Включить главную и страницы архивов"
+
+#: admin/customizer/options-general.php:506
+msgid "Include static Pages"
+msgstr "Включить статические страницы"
+
+#: admin/customizer/options-general.php:493
+msgid "Social Sharing"
+msgstr "Поделиться в соцсетях"
+
+#: admin/customizer/options-general.php:486
+msgid "Social profiles"
+msgstr "Социальные профили"
+
+#: admin/customizer/options-general.php:462
+msgid "Social Profiles"
+msgstr "Профили социальных сетей"
+
+#: admin/customizer/options-general.php:455
+msgid "Divide alternative footer widget area into this number of columns"
+msgstr "Разделить альтернативную область подвала на это число столбцов "
+
+#: admin/customizer/options-general.php:449
+msgid "Divide footer widget area into this number of columns"
+msgstr "Разделить область подвала на это число столбцов"
+
+#: admin/customizer/options-general.php:443
+msgid "Enable alternative footer widget area in front page."
+msgstr "Активировать альтернативную нижнюю панель для виджетов на главной странице"
+
+#: admin/customizer/options-general.php:437
+msgid "Enable alternative sidebar widget area in front page."
+msgstr "Активировать альтернативную боковую панель для виджетов на главной странице"
+
+#: admin/customizer/graphene-plus.php:175
+#: admin/customizer/options-general.php:423
+msgid "Widget Areas"
+msgstr "Области виджетов"
+
+#: admin/customizer/options-general.php:415
+msgid "Show only if parent is empty"
+msgstr "Показывать только если родительский элемент пуст"
+
+#: admin/customizer/options-general.php:398
+msgid "Disable contextual navigation in the sidebar"
+msgstr "Отключить контекстную навигацию в боковой панели"
+
+#: admin/customizer/options-general.php:385
+msgid "Child Pages"
+msgstr "Параметры дочерней страницы"
+
+#: admin/customizer/options-general.php:339
+msgid "Number of posts"
+msgstr "Число записей"
+
+#: admin/customizer/options-general.php:296
+msgid "Front Page"
+msgstr "Главная страница"
+
+#: admin/customizer/options-general.php:288
+msgid "Click-to-load"
+msgstr "Нажать для загрузки"
+
+#: admin/customizer/options-general.php:287
+msgid "Auto-load"
+msgstr "Автозагрузка"
+
+#: admin/customizer/options-general.php:285
+msgid "Loading method"
+msgstr "Метод загрузки"
+
+#: admin/customizer/options-general.php:279
+msgid "Enable for comments"
+msgstr "Включить для комментариев"
+
+#: admin/customizer/options-general.php:273
+msgid "Enable for posts"
+msgstr "Включить для записей"
+
+#: admin/customizer/options-general.php:238
+#: admin/customizer/options-general.php:245
+msgid "px"
+msgstr "px"
+
+#: admin/customizer/options-general.php:228
+msgid "Custom slider image"
+msgstr "Пользовательское изображение слайдера"
+
+#: admin/customizer/options-general.php:223
+msgid "Custom image"
+msgstr "Пользовательское изображение"
+
+#: admin/customizer/options-general.php:222
+msgid "Featured image"
+msgstr "Изображение записи"
+
+#: admin/customizer/options-general.php:212
+msgid "posts"
+msgstr "записи"
+
+#: admin/customizer/options-general.php:173
+#: admin/customizer/options-general.php:204
+#: admin/customizer/options-general.php:308
+#: admin/customizer/options-general.php:350
+msgid "Select categories"
+msgstr "Скрыть рубрики"
+
+#: admin/customizer/options-general.php:139
+msgid "Slider content"
+msgstr "Содержимое слайдера"
+
+#: admin/customizer/options-general.php:35
+msgid "Disable Top Bar"
+msgstr "Отключить верхнюю панель"
+
+#: admin/customizer/options-general.php:28
+msgid "Header"
+msgstr "Заголовок"
+
+#: admin/customizer/options-display.php:150
+msgid "Excerpts"
+msgstr "Отрывки"
+
+#: admin/customizer/options-display.php:124
+msgid "Inline text"
+msgstr "Включенный текст"
+
+#: admin/customizer/options-display.php:123
+msgid "Icon with year"
+msgstr "Значок с годом"
+
+#: admin/customizer/options-display.php:122
+msgid "Icon"
+msgstr "Значок"
+
+#: admin/customizer/options-display.php:112
+msgid "Hide author bio"
+msgstr "Скрыть биографию автора"
+
+#: admin/customizer/options-display.php:70
+msgid "Posts Elements"
+msgstr "Элементы записей"
+
+#: admin/customizer/options-display.php:45
+msgid "Three columns, left & right sidebars"
+msgstr "Три столбца, боковые панели справа и слева"
+
+#: admin/customizer/options-display.php:44
+msgid "Three columns, left sidebars"
+msgstr "Три столбца, боковые панели слева"
+
+#: admin/customizer/options-display.php:43
+msgid "Three columns, right sidebars"
+msgstr "Три столбца, боковые панели справа"
+
+#: admin/customizer/options-display.php:42
+msgid "Two columns, left sidebar"
+msgstr "Два столбца, боковая панель слева"
+
+#: admin/customizer/options-display.php:41
+msgid "Two columns, right sidebar"
+msgstr "Два столбца, боковая панель справа"
+
+#: admin/customizer/options-display.php:37
+msgid "Layout"
+msgstr "Макет"
+
+#: admin/customizer/options-display.php:23
+msgid "Full width"
+msgstr "На полную ширину"
+
+#: admin/customizer/options-display.php:22
+msgid "Boxed"
+msgstr "Коробка"
+
+#: admin/customizer/options-display.php:20
+msgid "Container style"
+msgstr "Стиль контейнера"
+
+#: admin/customizer/options-display.php:13
+msgid "Columns Layout"
+msgstr "Макет столбцов"
+
+#: admin/customizer/options-colours.php:207
+msgid "Comments box shadow"
+msgstr "Тень области комментария"
+
+#: admin/customizer/options-colours.php:206
+msgid "Comments border"
+msgstr "Бордюр комментариев"
+
+#: admin/customizer/options-colours.php:197
+#: admin/customizer/options-general.php:365
+msgid "Comments"
+msgstr "Комментарии"
+
+#: admin/customizer/options-colours.php:188
+msgid "Archive label text colour"
+msgstr "Цвет текста ярлыка архива"
+
+#: admin/customizer/options-colours.php:187
+msgid "Archive label title colour"
+msgstr "Цвет названия ярлыка архива"
+
+#: admin/customizer/options-colours.php:185
+msgid "Archive label background"
+msgstr "Фон ярлыка архива"
+
+#: admin/customizer/options-colours.php:177
+msgid "Archives"
+msgstr "Архивы"
+
+#: admin/customizer/options-colours.php:168
+msgid "Label text"
+msgstr "Текст этикетки"
+
+#: admin/customizer/options-colours.php:167
+msgid "Label background"
+msgstr "Фон ярлыка"
+
+#: admin/customizer/options-colours.php:166
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: admin/customizer/options-colours.php:157
+msgid "Buttons and Labels"
+msgstr "Кнопки и ярлыки"
+
+#: admin/customizer/options-colours.php:128
+msgid "Sticky posts border"
+msgstr "Бордюр прикрепленных записей"
+
+#: admin/customizer/options-colours.php:127
+msgid "Links (hover)"
+msgstr "Ссылки (при наведении)"
+
+#: admin/customizer/options-colours.php:29
+#: admin/customizer/options-colours.php:126
+msgid "Links"
+msgstr "Ссылки"
+
+#: admin/customizer/options-colours.php:101
+msgid "Slider caption text"
+msgstr "Текст подписи слайдера"
+
+#: admin/customizer/options-colours.php:92
+msgid "Slider caption background"
+msgstr "Фон подписи слайдера"
+
+#: admin/customizer/options-colours.php:49
+#: admin/customizer/options-colours.php:78
+msgid "Dropdown menu text (active state)"
+msgstr "Текст выпадающего меню (активный)"
+
+#: admin/customizer/options-colours.php:47
+#: admin/customizer/options-colours.php:76
+msgid "Text (active state)"
+msgstr "Текст (активный)"
+
+#: admin/customizer/options-colours.php:46
+#: admin/customizer/options-colours.php:75
+msgid "Background (active state)"
+msgstr "Фон (активный)"
+
+#: admin/customizer/options-colours.php:45
+#: admin/customizer/options-colours.php:74
+msgid "Text (default state)"
+msgstr "Текст ( по умолчанию )"
+
+#: admin/customizer/options-colours.php:44
+#: admin/customizer/options-colours.php:73
+msgid "Background (default state)"
+msgstr "Фон ( по умолчанию )"
+
+#: admin/customizer/options-colours.php:13
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: admin/customizer/customizer.php:129
+msgid "Graphene: Utilities"
+msgstr "Graphene: Инструменты"
+
+#: admin/customizer/customizer.php:125
+msgid "Graphene: Advanced"
+msgstr "Graphene: Расширенные"
+
+#: admin/customizer/customizer.php:120
+msgid "Graphene: Colours"
+msgstr "Graphene: Цвета"
+
+#: admin/customizer/customizer.php:116
+msgid "Graphene: Display"
+msgstr "Graphene: Отображение"
+
+#: admin/customizer/customizer.php:112
+msgid "Graphene: General"
+msgstr "Graphene: Общее"
+
+#: admin/customizer/customizer.php:45
+msgid "Please select a settings file to import."
+msgstr "Выберите файл настроек для импорта."
+
+#: admin/customizer/customizer.php:43
+msgid "(optional)"
+msgstr "(необязательно)"
+
+#: admin/customizer/controls.php:547 admin/customizer/options-utilities.php:32
+msgid "Import settings"
+msgstr "Импорт настроек"
+
+#: admin/customizer/controls.php:525 admin/customizer/options-utilities.php:38
+msgid "Export settings"
+msgstr "Экспорт настроек"
+
+#: admin/customizer/controls.php:505
+msgid "Confirm to reset settings? This action is not reversible."
+msgstr "Подтверждаете сброс настроек? Это действие необратимо."
+
+#: admin/customizer/controls.php:361 admin/customizer/controls.php:399
+msgid "Add social profile"
+msgstr "Добавить профиль соцсети"
+
+#: admin/customizer/controls.php:355 admin/customizer/controls.php:436
+#: admin/customizer/customizer.php:52
+msgid "Drag and drop to reorder"
+msgstr "Перетащите и бросьте для переупорядочивания"
+
+#: admin/customizer/controls.php:255
+msgid "Columns width (three-column mode)"
+msgstr "Ширина столбцов (макет 3 столбцов)"
+
+#: admin/customizer/controls.php:239
+msgid "Columns width (two-column mode)"
+msgstr "Ширина столбцов (макет 2 столбцов)"
+
+#. Template Name of the theme
+#. translators: For RTL languages, translate "left" as "right"
+#: template-twocolumnsright.php:13
+msgid "Two columns, sidebar on the left"
+msgstr "Два столбца (боковая панель слева)"
+
+#. Template Name of the theme
+#. translators: For RTL languages, translate "right" as "left"
+#: template-twocolumnsleft.php:13
+msgid "Two columns, sidebar on the right"
+msgstr "Два столбца (боковая панель справа)"
+
+#. Template Name of the theme
+#. translators: For RTL languages, translate "left" as "right"
+#: template-threecolumnsright.php:13
+msgid "Three columns, sidebars on the left"
+msgstr "Три столбца (две боковых панели слева)"
+
+#. Template Name of the theme
+#. translators: For RTL languages, translate "right" as "left"
+#: template-threecolumnsleft.php:13
+msgid "Three columns, sidebars on the right"
+msgstr "Три столбца (две боковых панели справа)"
+
+#. Template Name of the theme
+#: template-threecolumnscenter.php:11
+msgid "Three columns, sidebar left and right"
+msgstr "Три столбца (боковые панели слева и справа)"
+
+#. Template Name of the theme
+#: template-onecolumn.php:10
+msgid "One column, no sidebar"
+msgstr "Один столбец, без боковой панели"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Поиск"
+
+#: search-404.php:52
+msgid "<strong>Sorry, couldn't find anything.</strong> Try searching for alternative terms using the search form above."
+msgstr "<strong>Извините, ничего не найдено.</strong> Попробуйте поиск по другим ключевым словам, используя форму поиска, наверху."
+
+#. translators: %1$s is the search term, %2$s is the number of results found
+#: search-404.php:31
+msgid "I've done a courtesy search for the term %1$s for you and found a total of %2$s result. See if you can find what you're looking for below."
+msgid_plural "I've done a courtesy search for the term %1$s for you and found a total of %2$s results. See if you can find what you're looking for below."
+msgstr[0] "Для Вашего удобства уже выполнили поиск по термину %1$s и нашли %2$s совпадение.  Возможно, вы найдете то, что ищете, внизу."
+msgstr[1] "Для Вашего удобства уже выполнили поиск по термину %1$s и нашли %2$s совпадения.  Возможно, вы найдете то, что ищете, внизу."
+msgstr[2] "Для Вашего удобства уже выполнили поиск по термину %1$s и нашли %2$s совпадений.  Возможно, вы найдете то, что ищете, внизу."
+
+#: search-404.php:26
+msgid "Suggested results"
+msgstr "Предложенные результаты"
+
+#. translators: %1$s is the number of results found, %2$s is the search term
+#: search-404.php:17
+msgid "Found %1$s search result for keyword: %2$s"
+msgid_plural "Found %1$s search results for keyword: %2$s"
+msgstr[0] "Найдено %1$s результат поиска для: %2$s"
+msgstr[1] "Найдено %1$s результата поиска для: %2$s"
+msgstr[2] "Найдено %1$s результатов поиска для: %2$s"
+
+#: inc/loop.php:925
+msgid "By %s"
+msgstr "от %s"
+
+#: inc/loop.php:1011
+msgid "Leave comment"
+msgstr "Оставить комментарий"
+
+#: admin/customizer/customizer.php:44
+msgid "Link"
+msgstr "Ссылка"
+
+#: loop-page.php:44 loop-single.php:46 loop.php:83
+msgid "Permanent link to this article:"
+msgstr "Постоянная ссылка на это сообщение:"
+
+#: inc/loop.php:256
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: loop-not-found.php:10
+msgid "Sorry, but no results were found for that keyword. Would you like to try an alternative keyword search?"
+msgstr "Извините, но ничего не найдено по этому ключевому слову. Хотите попробовать поиск по другим ключевым словам?"
+
+#: loop-not-found.php:8
+msgid "Sorry, but you are looking for something that isn't here. Would you like to try a search?"
+msgstr "Извините, но вы ищете то, чего здесь нет. Хотите попробовать поиск?"
+
+#: loop-not-found.php:3
+msgid "Not found"
+msgstr "Не найдено"
+
+#: loop-author.php:62
+msgid "Most commented posts"
+msgstr "Наиболее комментируемые сообщения"
+
+#: loop-author.php:55 loop-children.php:53 loop-page.php:5 loop-page.php:16
+#: loop-single.php:16 loop.php:4 loop.php:18
+msgid "(No title)"
+msgstr "(Нет названия)"
+
+#: inc/setup.php:349
+msgid "Dynamically added widget area. This widget area is attached to the %s action hook."
+msgstr "Динамически добавленная панель для виджетов. Она прикреплена к \"точке действия/action hook\" %s."
+
+#: inc/setup.php:329
+msgid "The header widget area."
+msgstr "Заглавная панель для виджетов"
+
+#: inc/setup.php:317
+msgid "The footer widget area that will only be displayed on the front page. Leave empty to disable. Set the number of columns to display at the theme's Display Options page."
+msgstr " Нижняя панель для виджетов будет отображаться только на главной странице. Оставьте пустой, чтобы отключить. Установите число столбцов для отображения на странице отображения темы в Параметрах темы."
+
+#: inc/setup.php:306
+msgid "The second sidebar widget area that will only be displayed on the front page."
+msgstr "Вторая панель для виджетов, которая будет отображаться только на главной странице."
+
+#: sidebar-two.php:28
+msgid "Front Page Sidebar Two Widget Area"
+msgstr "Вторая панель виджетов для главной страницы"
+
+#: inc/setup.php:297
+msgid "The first sidebar widget area that will only be displayed on the front page."
+msgstr "Первая боковая панель для виджетов, которая будет отображаться только на главной странице."
+
+#: sidebar.php:34
+msgid "Front Page Sidebar Widget Area"
+msgstr "Боковая панель для виджетов на главной странице"
+
+#: inc/setup.php:280
+msgid "The footer widget area. Leave empty to disable. Set the number of columns to display at the theme's Display Options page."
+msgstr "Нижняя панель для виджетов. Оставьте пустой, чтобы отключить. Установите число столбцов для отображения на странице отображения темы в Параметрах темы."
+
+#: sidebar-two.php:30
+msgid "Sidebar Two Widget Area"
+msgstr "Вторая боковая панель для виджетов"
+
+#: sidebar.php:36
+msgid "Sidebar Widget Area"
+msgstr "Боковая панель для виджетов"
+
+#: inc/setup.php:199 inc/setup.php:203 inc/setup.php:207 inc/setup.php:211
+#: inc/setup.php:215
+msgid "Header image cropped from image by Ilco at sxc.hu"
+msgstr "Заглавная картинка, кадрированная из изображения сделанного Ilco на sxc.hu"
+
+#: inc/setup.php:195
+msgid "This is the default Graphene theme header image, cropped from image by Quantin Houyoux at sxc.hu"
+msgstr "Это заглавная картинка по умолчанию для темы \"Graphene\", кадрированная из изображения сделанного Quantin Houyoux на sxc.h"
+
+#: inc/setup.php:191
+msgid "Header image by Syahir Hakim"
+msgstr "Заглавное изображение разработал Syahir Hakim"
+
+#: inc/setup.php:92
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: admin/customizer/options-colours.php:64 inc/setup.php:91
+msgid "Secondary Menu"
+msgstr "Вторичное меню"
+
+#: inc/setup.php:90
+msgid "Header Menu"
+msgstr "Заглавное меню"
+
+#: inc/panes.php:89
+msgid "Read more"
+msgstr "Читать далее"
+
+#: inc/panes.php:74 inc/panes.php:89 loop-author.php:55 loop-children.php:53
+#: loop.php:17 loop.php:36
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: inc/menus.php:226
+msgid "Home"
+msgstr "Домой"
+
+#: inc/loop.php:793
+msgid "Return to %s"
+msgstr "Вернуться к %s"
+
+#: inc/loop.php:769
+msgid "Print this %s"
+msgstr "Распечатать %s"
+
+#: inc/functions.php:469
+msgid "This notice will not be displayed to your site's visitors."
+msgstr "Настоящая заметка не отображается посетителям Вашего сайта."
+
+#: inc/functions.php:468
+msgid "WP Admin > Appearance > Widgets"
+msgstr "Консоль > Внешний вид > Виджеты"
+
+#: inc/functions.php:468
+msgid "You haven't placed any widget into this widget area. Go to %1$s and place some widgets in the widget area called %2$s."
+msgstr "Вы не разместили ни одного виджета в данную область. Идите на %1$s и разместите какие-то виджеты в область виджетов, под названием  %2$s."
+
+#. translators: %1$s is the website's name, %2$s is the social media name
+#: inc/functions.php:301
+msgid "Visit %1$s's %2$s page"
+msgstr "Посетить страницу %1$s %2$s"
+
+#: inc/comments.php:215
+msgid "Fetch more comments"
+msgstr "Загрузить еще комментарии"
+
+#: inc/comments.php:188
+msgid "Spam"
+msgstr "Спам"
+
+#: inc/comments.php:188
+msgid "Mark this comment as spam"
+msgstr "Пометить этот комментарий как спам"
+
+#: inc/comments.php:186
+msgid "Delete this comment"
+msgstr "Удалить этот комментарий"
+
+#: inc/comments.php:58
+msgid "Email"
+msgstr "Email"
+
+#: inc/comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: inc/comments.php:283
+msgid "Reply"
+msgstr "Ответить"
+
+#: header.php:31 header.php:74 header.php:109
+msgid "Go back to the front page"
+msgstr "Вернуться на главную страницу"
+
+#: footer.php:95
+msgid "Graphene Themes"
+msgstr "Graphene Themes"
+
+#: comments.php:142
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+#: comments.php:125
+msgid "Comments have been disabled."
+msgstr "Комментарии были заблокированны"
+
+#: comments.php:83
+msgid "Skip to comment form"
+msgstr "Перейти полю для комментария"
+
+#: comments.php:53
+msgid "%s ping"
+msgid_plural "%s pings"
+msgstr[0] "%s пинг"
+msgstr[1] "%s пинга"
+msgstr[2] "%s пингов"
+
+#: comments.php:51 inc/loop.php:1012 loop-author.php:55
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: comments.php:25
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Данное сообщение защищено паролем. Введите пароль, чтобы увидеть комментарии."
+
+#: archive.php:32
+msgid "Blog Archive"
+msgstr "Архив блога"
+
+#. translators: F will be replaced with month, and Y will be replaced with
+#. year, so "F Y" in English would be replaced with something like "June 2008".
+#: archive.php:28
+msgid "F Y"
+msgstr "F Y"
+
+#: admin/user.php:27 admin/user.php:141
+msgid "<strong>Important: </strong>Image width must be less than or equal to <strong>150px</strong>."
+msgstr "<strong>Важно: </strong>Ширина изображения должна быть меньше или равна <strong>150px</strong>."
+
+#. translators: %s will be replaced by 'http://' wrapped in <code> tags
+#: admin/user.php:140
+msgid "Please enter the full URL (including %s) to your profile image."
+msgstr "Пожалуйста, введите полный URL для изображения профиля (включая %s)."
+
+#: admin/user.php:26
+msgid "You can specify the image to be displayed as the author's profile image in the Author's page. If no URL is defined here, the author's %s will be used."
+msgstr "Вы можете выбрать изображение, которое будет отображаться в качестве изображения автора профиля на странице автора. Если не указан никакой URL, тогда будет использоваться %s автора."
+
+#: admin/user.php:16
+msgid "Author profile image URL"
+msgstr "URL изображения для профиля автора"
+
+#: admin/user.php:12
+msgid "The settings defined here are used only with the Graphene theme."
+msgstr "Заданные параметры используются только в теме Graphene."
+
+#: admin/user.php:11
+msgid "Graphene-specific User Profile Information"
+msgstr "Специальная информация профиля пользователя в теме Graphene"
+
+#: admin/uninstall.php:24
+msgid "Theme uninstalled. Redirecting to %s"
+msgstr "Тема деактивирована. Переxod на %s"
+
+#: admin/customizer/controls.php:503
+msgid "<strong>WARNING:</strong> This action is not reversible."
+msgstr "<strong>Предупреждение:</strong>Если это сделать, то невозможно вернуться назад к прежнему состоянию."
+
+#: admin/customizer/controls.php:505 admin/customizer/options-utilities.php:13
+msgid "Reset settings"
+msgstr "Восстановить значения по умолчанию"
+
+#: admin/options.php:103
+msgid "No news items."
+msgstr "Нет новостей."
+
+#: admin/uninstall.php:23
+msgid "Uninstall Graphene"
+msgstr "Деинсталировать тему Graphene"
+
+#: admin/options-init.php:227
+msgid "Documentation"
+msgstr "Документация"
+
+#: admin/options-init.php:226
+msgid "Learn more about this feature set"
+msgstr "Узнай больше об этих возможностях"
+
+#: admin/options-init.php:181 admin/options-init.php:185
+msgid "Theme default"
+msgstr "Стандартное для темы"
+
+#: admin/options-init.php:118
+msgid "default"
+msgstr "По умолчанию"
+
+#: admin/options-init.php:115
+msgid "Template preview not found."
+msgstr "Предварительный просмотр шаблона не найден."
+
+#: admin/customizer/customizer.php:41
+msgid "Please select the exported Graphene options file to import."
+msgstr "Выберите, какой ранее экспортированный файл настроек для темы Graphene хочешь импортировать."
+
+#: admin/customizer/customizer.php:39
+msgid "Oops, nothing found."
+msgstr "Не повезло, ничего не найдено."
+
+#: admin/options-init.php:52
+msgid "Graphene Options"
+msgstr "Параметры Graphene"
+
+#: admin/customizer/options-import.php:114
+msgid "&laquo; Return to Graphene Options"
+msgstr "&laquo; Перейти на страницу настроек темы Graphene"
+
+#: admin/customizer/options-import.php:113
+msgid "Export colour presets"
+msgstr "Экспорт наборов цветов"
+
+#: admin/customizer/options-import.php:103
+msgid "Please select the colour presets to be exported."
+msgstr "Выберите, какие стандартные наборы цветов хочешь экспортировать."
+
+#: admin/customizer/options-import.php:100
+msgid "Export Graphene Theme Colour Presets"
+msgstr "Экспортировать наборы цветов для темы Graphene"
+
+#: admin/customizer/options-import.php:73
+msgid "Choose a Graphene theme's colour presets export file from your computer:"
+msgstr "Выберите файл с настройкоами цветов для темы Graphene на вашем компьютере:"
+
+#: admin/customizer/options-import.php:70
+msgid "Import Graphene Theme Colour Presets"
+msgstr "Импортировать наборы цветов для темы Graphene"
+
+#: admin/customizer/options-import.php:81
+msgid "Upload file and import"
+msgstr "Загрузить файл и мипортировать"
+
+#: admin/customizer/options-import.php:74
+msgid "Maximum size: %s"
+msgstr "Максимальный размер: %s"
+
+#: admin/customizer/options-import.php:64
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "До того, как сможете загрузить файл для импорта, необходимо исправить следующее:"
+
+#: admin/customizer/options-import.php:44 admin/uninstall.php:32
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "ОШИБКА: Вы не авторизованы для выполнения данной операции"
+
+#: admin/customizer/options-general.php:689
+msgid "Show print button"
+msgstr "Показывать кнопку печати"
+
+#: admin/customizer/options-general.php:663
+msgid "Do not show copyright info"
+msgstr "Не показывать авторские права"
+
+#: admin/customizer/options-general.php:653
+msgid "Copyright text (html allowed)"
+msgstr "Авторские права (HTML разрешен)"
+
+#: admin/customizer/options-general.php:530
+msgid "You can use codes from any popular social sharing sites, like Facebook, Digg, AddThis, etc."
+msgstr "Вы можете использовать коды других популярных социальных сетей, таких как Facebook, Digg, AddThis, и т.д."
+
+#: admin/customizer/options-general.php:521
+msgid "Top of posts"
+msgstr "Начало сообщения"
+
+#: admin/customizer/options-general.php:520
+msgid "Bottom of posts"
+msgstr "Конец сообщения"
+
+#: admin/customizer/options-general.php:500
+msgid "Show social sharing buttons"
+msgstr "Показывать кнопки социальных сетей"
+
+#: admin/customizer/controls.php:365
+msgid "Choose type"
+msgstr "Выберите тип"
+
+#: admin/customizer/controls.php:354 admin/customizer/controls.php:435
+#: admin/customizer/customizer.php:42 admin/customizer/customizer.php:49
+#: inc/comments.php:186
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/customizer/controls.php:345 admin/customizer/controls.php:390
+msgid "Icon URL"
+msgstr "URL фавикона"
+
+#: admin/customizer/controls.php:339
+msgid "Leave the URL empty to use the default RSS URL."
+msgstr "Оставьте поле URL пустым,чтобы использовать URL для RSS-потока по умолчанию."
+
+#: admin/customizer/controls.php:335 admin/customizer/controls.php:385
+msgid "URL"
+msgstr "URL"
+
+#: admin/customizer/controls.php:306 admin/customizer/controls.php:371
+msgid "Custom"
+msgstr "Специальный"
+
+#: admin/customizer/options-general.php:481
+msgid "Open social media links in new window"
+msgstr "Открывать ссылки на социальные сети в новом окне"
+
+#: admin/customizer/options-general.php:430
+msgid "Enable header widget area"
+msgstr "Активировать заглавную панель для виджетов"
+
+#: admin/customizer/options-general.php:431
+msgid "<strong>Important:</strong> This widget area is unstyled, as it is often used for advertisement banners, etc. If you enable it, make sure you style it to your needs using the Custom CSS option."
+msgstr "<strong>Важно:</strong> у этой панели для виджетов нет стиля, так как она часто используется для рекламных баннеров и т.п. Если Вы активируете ее, убедитесь, что Вы настроили стиль в соответствии с вашими нуждами, используя пользовательские настройки CSS."
+
+#: admin/customizer/options-general.php:414
+msgid "Hide listing"
+msgstr "Скрыть список"
+
+#: admin/customizer/options-general.php:413
+msgid "Show listing"
+msgstr "Отображать список"
+
+#: admin/customizer/options-general.php:411
+msgid "Child page listings"
+msgstr "Список дочерних страниц"
+
+#: admin/customizer/options-general.php:392
+msgid "Hide parent box if content is empty"
+msgstr "Скрыть вышестоящее содержание, если нет содержимого"
+
+#: admin/customizer/options-general.php:377
+msgid "Disable completely"
+msgstr "Полностью отключить"
+
+#: admin/customizer/options-general.php:376
+msgid "Disable for pages"
+msgstr "Отключить для страниц"
+
+#: admin/customizer/options-general.php:375
+msgid "Use WordPress settings"
+msgstr "Использовать настройки WordPress"
+
+#: admin/customizer/options-general.php:372
+msgid "Commenting"
+msgstr "Комментарии"
+
+#: admin/customizer/options-general.php:345
+msgid "Categories to show latest posts from"
+msgstr "Категории, из которых отображаются последние заметки"
+
+#: admin/customizer/options-general.php:331
+msgid "Latest posts"
+msgstr "Последние сообщения"
+
+#: admin/customizer/options-general.php:329
+msgid "Type of content to show"
+msgstr "Тип отображаемого содержимого"
+
+#: admin/customizer/options-general.php:323
+msgid "Disable homepage panes"
+msgstr "Отключить панель домашней страницы"
+
+#: admin/customizer/options-general.php:316
+msgid "Home Page Panes"
+msgstr "Панель домашней страницы"
+
+#: admin/customizer/options-general.php:303
+msgid "Front page posts categories"
+msgstr "Категории для отображения сообщений на главной странице"
+
+#: admin/customizer/options-general.php:266
+msgid "Infinite Scroll"
+msgstr "Бесконечная прокрутка"
+
+#: admin/customizer/options-general.php:259
+msgid "Move slider to bottom of page"
+msgstr "Переместить слайдер на низ старницы"
+
+#: admin/customizer/options-general.php:252
+msgid "milliseconds"
+msgstr "миллисекунды"
+
+#: admin/customizer/options-general.php:251
+msgid "Slider speed"
+msgstr "Скорость слайдера"
+
+#: admin/customizer/options-general.php:237
+msgid "Slider height"
+msgstr "Высота слайдера"
+
+#: admin/customizer/options-general.php:120
+msgid "Full post content"
+msgstr "Полное содержание сообщения"
+
+#: admin/customizer/options-general.php:211
+msgid "Number of posts to display"
+msgstr "Число отображаемых сообщений"
+
+#: admin/customizer/options-general.php:186
+msgid "Show posts from categories in random order"
+msgstr "Показывать сообщеня из определенных категорий в случайном порядке"
+
+#: admin/customizer/options-general.php:72
+#: admin/customizer/options-general.php:471
+#: admin/customizer/options-general.php:612
+msgid "Disabled"
+msgstr "--Выключено --"
+
+#: admin/customizer/options-general.php:180
+msgid "Exclude the categories from posts listing"
+msgstr "Исключить категории из списка сообщений"
+
+#: admin/customizer/options-general.php:171
+msgid "All posts within the categories selected here will be displayed on the slider. Usage example: create a new category \"Featured\" and assign all posts to be displayed on the slider to that category, and then select that category here."
+msgstr "Все сообщения выбранных категорий будут отображаться на слайдере. Пример: создайте новую катекорию \"Отмеченные\" и укажите эту категорию на всех сообщениях, которые должны быть отображены на слайдере. Затем выберите эту категорию здесь."
+
+#: admin/customizer/options-general.php:168
+msgid "Categories to display"
+msgstr "Категории для отображения"
+
+#: admin/customizer/options-general.php:157
+#: admin/customizer/options-general.php:357
+msgid "Posts and/or pages to display"
+msgstr "Сообщения и/или страницы для отображения"
+
+#: admin/customizer/options-general.php:144
+msgid "Show posts from categories"
+msgstr "Показывать сообщеня из определенных категорий"
+
+#: admin/customizer/options-general.php:143
+#: admin/customizer/options-general.php:332
+msgid "Show specific posts/pages"
+msgstr "Показать избранные сообщения/страницы"
+
+#: admin/customizer/options-general.php:142
+msgid "Show random posts"
+msgstr "Показывать случайные сообщения"
+
+#: admin/customizer/options-general.php:141
+msgid "Show latest posts"
+msgstr "Показывать последние сообщения"
+
+#: admin/customizer/options-general.php:127
+msgid "Extend slider to full width of theme"
+msgstr "Расширить слайдер до полной ширины темы"
+
+#: admin/customizer/options-general.php:95
+msgid "Disable slider"
+msgstr "Отключить слайдер"
+
+#: admin/customizer/options-display.php:194
+msgid "Disable custom editor styles"
+msgstr "Выключить форматирование окна редактора"
+
+#: admin/customizer/options-display.php:175
+msgid "Enter the HTML tags you'd like to retain in excerpts. For example, enter <code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> to retain <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code>, and <code>&lt;li&gt;</code> HTML tags."
+msgstr "Введите HTML теги, которые вы бы хотели бы сохранить в выдержках. Например, введите <code>&lt;p&gt;&lt;ul&gt;&lt;li&gt;</code> сохранить <code>&lt;p&gt;</code>, <code>&lt;ul&gt;</code> и <code>&lt;li&gt;</code> HTML теги."
+
+#: admin/customizer/options-display.php:174
+msgid "Keep these HTML tags in excerpts"
+msgstr "Сохранять эти теги HTML в отрывках"
+
+#: admin/customizer/options-display.php:169
+msgid "Show More link for manual excerpts"
+msgstr "Отображать ссылку \"Далее\" для ручной выдержки"
+
+#: admin/customizer/options-display.php:163
+msgid "Show full content in archive pages"
+msgstr "Показывать все содержимое на архивных страницах"
+
+#: admin/customizer/options-display.php:157
+msgid "Show excerpts in Front Page"
+msgstr "Показывать выдержки на главной странице"
+
+#: admin/customizer/options-display.php:105
+msgid "Hide post comment count"
+msgstr "Скрыть количество комментариев к сообщению"
+
+#: admin/customizer/options-display.php:91
+msgid "Hide post tags"
+msgstr "Скрыть теги/этикетки сообщения"
+
+#: admin/customizer/options-display.php:84
+msgid "Hide post categories"
+msgstr "Скрыть категории сообщения"
+
+#: admin/customizer/options-display.php:77
+msgid "Hide post author"
+msgstr "Не показывать автора сообщения"
+
+#: admin/customizer/controls.php:265
+msgid "Right sidebar"
+msgstr "Правая боковая панель"
+
+#: admin/customizer/controls.php:257
+msgid "Left sidebar"
+msgstr "Левая боковая панель"
+
+#: admin/customizer/controls.php:245
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: admin/customizer/controls.php:241 admin/customizer/controls.php:261
+msgid "Content"
+msgstr "Область содержания"
+
+#: admin/customizer/options-display.php:53
+msgid "Columns Width"
+msgstr "Ширина столбцов"
+
+#: admin/customizer/controls.php:230
+msgid "Container width"
+msgstr "Ширина контейнера"
+
+#: admin/customizer/options-display.php:55
+msgid "Leave values empty to reset to the default values."
+msgstr "Оставьте значения пустыми для сброса их на значения по умолчанию."
+
+#: admin/customizer/options-display.php:40
+msgid "One column"
+msgstr "Один столбец"
+
+#: admin/customizer/options-general.php:71
+msgid "Navigation bar"
+msgstr "Панель навигации"
+
+#: admin/customizer/options-general.php:68
+msgid "Search box location"
+msgstr "Расположение окна поиска"
+
+#: admin/customizer/options-general.php:61
+msgid "Header image max height"
+msgstr "Высота картинки в заголовке"
+
+#: admin/customizer/options-general.php:55
+msgid "Check this to prevent the posts Featured Image replacing the header image regardless of the featured image dimension."
+msgstr "Пометьте, чтобы избежать замещения изображения заголовка помечнным изображением, независимо от его размеров."
+
+#: admin/customizer/options-general.php:54
+msgid "Disable Featured Image replacing header image"
+msgstr "Отключить функцию замены загаловки помченным изображением."
+
+#: admin/customizer/options-general.php:48
+msgid "Check this if you disable the header texts and want the header image to be linked to the front page."
+msgstr "Пометьте эту опцию, если Вы отключили текст заголовка и хотите, добавить ссылку на главную страницу от заглавной картинки."
+
+#: admin/customizer/options-general.php:47
+msgid "Link header image to front page"
+msgstr "Добавлять ссылку на главную страницу от заглавной картинки"
+
+#: admin/customizer/options-general.php:41
+msgid "Use light-coloured header bars"
+msgstr "Использовать светлые тона для заголовков"
+
+#: admin/options-defaults.php:200
+msgid "Zesty Orange"
+msgstr "Сочный апельсин (Zesty Orange)"
+
+#: admin/options-defaults.php:196
+msgid "Curiosity Killed"
+msgstr "Умер от любопытности"
+
+#: admin/options-defaults.php:192
+msgid "Dream Magnet"
+msgstr "Магнит для снов"
+
+#: admin/options-defaults.php:188
+msgid "Default"
+msgstr "Стандартное"
+
+#: admin/options-defaults.php:90
+msgid "Subscribe to %s's RSS feed"
+msgstr "Подписаться на RSS канал от %s"
+
+#: admin/customizer/options-colours.php:228
+msgid "Link text"
+msgstr "Текст ссылки"
+
+#: admin/customizer/options-colours.php:227
+msgid "Normal text"
+msgstr "Обычный текст"
+
+#: admin/customizer/options-colours.php:218
+#: admin/customizer/options-general.php:473
+#: admin/customizer/options-general.php:646
+msgid "Footer"
+msgstr "Нижние колонтитулы"
+
+#: admin/customizer/options-colours.php:125
+msgid "Title text"
+msgstr "Текст заголовка"
+
+#: admin/customizer/options-colours.php:124
+msgid "Content text"
+msgstr "Текст содержания"
+
+#: admin/customizer/options-colours.php:209
+msgid "Author comments border"
+msgstr "Бордюр комментариев автора"
+
+#: admin/customizer/options-colours.php:208
+msgid "Comments text"
+msgstr "Текст комментариев"
+
+#: admin/customizer/options-colours.php:205
+msgid "Comments background"
+msgstr "Фон комментариев"
+
+#: admin/customizer/options-colours.php:186
+msgid "Archive label border"
+msgstr "Бордюр ярлыка архива"
+
+#: admin/customizer/options-colours.php:87
+#: admin/customizer/options-general.php:87
+msgid "Slider"
+msgstr "Слайдер"
+
+#: admin/customizer/options-colours.php:148
+msgid "Widget header border"
+msgstr "Граница заголовка виджета"
+
+#: admin/customizer/options-colours.php:147
+msgid "Widget item list border"
+msgstr "Граница списка деталей виджета"
+
+#: admin/customizer/options-colours.php:146
+msgid "Widget item background"
+msgstr "Фон деталей виджета"
+
+#: admin/customizer/options-colours.php:138
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: admin/customizer/options-colours.php:129
+msgid "Child pages content background"
+msgstr "Фон содержания дочерных страниц"
+
+#: admin/customizer/options-colours.php:123
+msgid "Post meta and footer border"
+msgstr "Мета и нижняя граница сообщения"
+
+#: admin/customizer/options-colours.php:122
+msgid "Post and pages content background"
+msgstr "Фон содержания страниц и сообщений"
+
+#: admin/customizer/options-colours.php:121
+msgid "Main content wrapper background"
+msgstr "Фон основного содержания"
+
+#: admin/customizer/options-colours.php:113
+msgid "Content Area"
+msgstr "Область содержимого"
+
+#: admin/customizer/options-colours.php:72
+msgid "Top border"
+msgstr "Верхняя граница"
+
+#: admin/customizer/options-colours.php:19
+#: admin/customizer/options-colours.php:226
+msgid "Background"
+msgstr "Фон"
+
+#: admin/customizer/options-colours.php:48
+#: admin/customizer/options-colours.php:77
+msgid "Dropdown menu text (default state)"
+msgstr "Текст выпадающего меню ( по умолчанию )"
+
+#: admin/customizer/options-colours.php:36
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: admin/customizer/options-colours.php:165
+msgid "Button background"
+msgstr "Фон кнопки"
+
+#: admin/customizer/options-general.php:70
+#: admin/customizer/options-general.php:472
+msgid "Top bar"
+msgstr "Верхняя панель"
+
+#: admin/customizer/customizer.php:121
+msgid "It's generally a good idea to stick to colours from colour pallettes that are aesthetically pleasing. Try the %s website for a kickstart on some colour palettes you can use."
+msgstr "Обычно стоит придерживаться цветам из эстетически подобранных палитр. Для вдохновения, можете посетить сайт %s, где можете найти согласованные палитры."
+
+#: admin/customizer/customizer.php:121
+msgid "Changing colours for your website involves a lot more than just trial and error. Simply mixing and matching colours without regard to their compatibility may do more damage than good to your site's aesthetics."
+msgstr "Изменение цвета вашего сайта это гораздо больше, чем просто \"Метод проб и ошибок\". Если Вы будете просто смешивать цвета без учета их совместимости, вы можете исказить эстетический вид вашего сайта."
+
+#: admin/customizer/controls.php:186
+msgid "Click to show/hide the action hooks for this file"
+msgstr "Нажмите, чтобы показать/спрятать список точек действий этого файла."
+
+#: admin/customizer/controls.php:175
+msgid "All action hooks available in the Graphene Theme are listed below. Click on the filename to display all the action hooks available in that file. Then, tick the checkbox next to an action hook to make a widget area available for that action hook."
+msgstr "Все точки действий \"action hooks\" темы Graphene перечислены внизу. Нажатие на назание файла откроет список всей точек данного файла. Затем пометьте флажок рядом с точкой действия, чтобы создать панель виджетов в этом месте."
+
+#: admin/customizer/options-advanced.php:31
+msgid "Action Hooks Widget Areas"
+msgstr "Панели виджетов для точек действий"
+
+#: admin/customizer/options-advanced.php:20
+msgid "Code to insert into the <head> element"
+msgstr "Код, который должен быть вставлен между тегами <head>"
+
+#: admin/customizer/options-advanced.php:13
+msgid "Custom <head> Tags"
+msgstr "Специальные теги в разделе <head>"
+
+#: admin/feature-pointers.php:12
+msgid "But no worries! If you're a seasoned user of the Graphene theme, or whenever you feel ready to further customise your site, just click on the \"Show all options\" link, and they will magically appear to you."
+msgstr "Не волнуйтесь! Если Вы - опытный пользователь темы Graphene, или когда почувствуете себя готовыми к более сложным настройкам своего сайта, просто нажмите на ссылку \"Отображать все настройки\". Тогда они, магически, все появвятся."
+
+#: admin/feature-pointers.php:11
+msgid "We know how too many options can really be daunting to new users, so we've hidden them."
+msgstr "Знаем, что слишком много настроек может вызвать головокружение у нового пользователя. Мы их спрятали."
+
+#: admin/feature-pointers.php:10
+msgid "We've decided to clean things up!"
+msgstr "Мы решили тут убраться немного!"
+
+#: admin/feature-pointers.php:9
+msgid "Where are all the options?!"
+msgstr "Где все настройки?"
+
+#: admin/db-updater.php:258
+msgid "Visit %s's Facebook page"
+msgstr "Посетить страницу %s на Facebook"
+
+#: admin/db-updater.php:247
+msgid "Follow %s on Twitter"
+msgstr "Следуйте за новостями %s  в Twitter"
+
+#: admin/custom-fields.php:170
+msgid "Only required if you need a description in the navigation menu and you are not using a custom menu."
+msgstr "Требуется только в том случае, если вам необходимо описание в меню навигации и вы не используете специальное меню"
+
+#: admin/custom-fields.php:166 admin/customizer/controls.php:330
+#: admin/customizer/controls.php:380
+msgid "Description"
+msgstr "Описание"
+
+#: admin/custom-fields.php:162
+msgid "Navigation options"
+msgstr "Настройки навигации"
+
+#: admin/custom-fields.php:154
+msgid "As inline text"
+msgstr "Как встроенный текст"
+
+#: admin/custom-fields.php:153
+msgid "As an icon (including the year)"
+msgstr "Как иконка (дату и год)"
+
+#: admin/custom-fields.php:152
+msgid "As an icon (without the year)"
+msgstr "Как иконка (без указания года)"
+
+#: admin/custom-fields.php:151 admin/customizer/options-display.php:121
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: admin/custom-fields.php:146 admin/customizer/options-display.php:119
+msgid "Post date display"
+msgstr "Отображать дату сообщения"
+
+#: admin/custom-fields.php:138
+msgid "Hide button"
+msgstr "Скрыть кнопку"
+
+#: admin/custom-fields.php:137
+msgid "Show button"
+msgstr "Показать кнопку"
+
+#: admin/custom-fields.php:132
+msgid "AddThis Social Sharing button"
+msgstr "Кнопка социального обмена AddThis"
+
+#: admin/custom-fields.php:128
+msgid "Display options"
+msgstr "Параметры отображения"
+
+#: admin/custom-fields.php:124
+msgid "Use this to override the link that is used in the slider."
+msgstr "Используйте это, чтобы указать другую ссылку, чем в слайдере."
+
+#: admin/custom-fields.php:120
+msgid "Custom slider URL"
+msgstr "Специальный URL для слайдера"
+
+#: admin/custom-fields.php:115
+msgid "Make sure you select Custom URL in the slider image option above to use this custom url."
+msgstr "Убедитесь,что вы выбрали специальный URL в опциях слайдер-изображения, чтобы использовать данный URL."
+
+#: admin/custom-fields.php:111
+msgid "Custom slider image URL"
+msgstr "Специальный URL изображения слайдера"
+
+#: admin/custom-fields.php:105
+msgid "Custom URL"
+msgstr "Специальный URL"
+
+#: admin/custom-fields.php:104
+msgid "First image in post"
+msgstr "Первое изображение в сообщении"
+
+#: admin/custom-fields.php:103
+msgid "Featured Image"
+msgstr "Помеченное изображение"
+
+#: admin/custom-fields.php:102 admin/customizer/options-general.php:220
+msgid "Don't show image"
+msgstr "Не показывать изображение"
+
+#: admin/custom-fields.php:101 admin/custom-fields.php:136
+#: admin/custom-fields.php:150
+msgid "Use global setting"
+msgstr "Использовать глобальные параметры"
+
+#: admin/custom-fields.php:97 admin/customizer/options-general.php:218
+msgid "Slider image"
+msgstr "Изображение слайдера"
+
+#: admin/custom-fields.php:93
+msgid "Slider options"
+msgstr "Настройки Слайдера"
+
+#: admin/custom-fields.php:92
+msgid "These settings will only be applied to this particular post or page you're editing. They will override the global settings set in the Graphene Options or Graphene Display options page."
+msgstr "Эти настройки будут применяться только к данному редактируемому сообщению или странице. Они отменят глобальные параметры в настройках Graphene или настройках отображения страницы Graphene."
+
+#: admin/custom-fields.php:15
+msgid "Graphene page-specific options"
+msgstr "Отдельные настройки страницы Graphene"
+
+#: admin/custom-fields.php:14
+msgid "Graphene post-specific options"
+msgstr "Отдельные настройки сообщений Graphene"
+
+#: admin/ajax-handler.php:84
+msgid "Colour preset saved."
+msgstr "Стандартные набор цветов сохранен."
+
+#: admin/ajax-handler.php:84
+msgid "Colour preset deleted."
+msgstr "Стандартный набор цветов удален."
+
+#: admin/ajax-handler.php:20
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: admin/ajax-handler.php:9 admin/ajax-handler.php:33 admin/ajax-handler.php:51
+msgid "Sorry, but you don't have the necessary permission to modify theme options."
+msgstr "К сожалению, Вы не имеете право менять опции данной темы."
+
+#: 404.php:44
+msgid "Searching for the terms <strong>%s</strong> ..."
+msgstr "Поиск терминов <strong>%s</strong> ..."
+
+#: 404.php:41
+msgid "Automated search"
+msgstr "Автоматический поиск"
+
+#: 404.php:33 search-404.php:6
+msgid "If you follow the link from another website, I may have removed or renamed the page some time ago. You may want to try searching for the page:"
+msgstr "Если Вы пришли по ссылке от другого сайта, возможно, страница была удалена или перемещена недавно. Советуем пользоваться поиском:"
+
+#: 404.php:32 search-404.php:5
+msgid "Sorry, I've looked everywhere but I can't find the page you're looking for."
+msgstr "Я искал везде, но к сожалению не могу найти запрашиваемую вами страницу."
+
+#: 404.php:30 search-404.php:3
+msgid "Error 404 - Page Not Found"
+msgstr "Ошибка 404 - Страница не найдена"
+
+#: 404.php:24
+msgid "Searching for: <span>%s</span>"
+msgstr "Поиск: <span>%s</span>"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Graphene Themes Solutions"
+msgstr "Graphene Themes Solutions"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.graphene-theme.com/graphene-theme/"
+msgstr "https://www.graphene-theme.com/graphene-theme/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.graphene-theme.com/"
+msgstr "https://www.graphene-theme.com/"

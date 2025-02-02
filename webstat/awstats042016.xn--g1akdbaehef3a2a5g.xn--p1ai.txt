@@ -1,0 +1,430 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201604 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.xn--g1akdbaehef3a2a5g.xn--p1ai.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2692                
+POS_VISITOR 8249                
+POS_DAY 9595                
+POS_DOMAIN 3537                
+POS_LOGIN 3771                
+POS_ROBOT 3926                
+POS_WORMS 4314                
+POS_EMAILSENDER 4445                
+POS_EMAILRECEIVER 4588                
+POS_SESSION 10302               
+POS_SIDER 10489               
+POS_FILETYPES 4723                
+POS_DOWNLOADS 5023                
+POS_OS 5467                
+POS_BROWSER 5594                
+POS_SCREENSIZE 6020                
+POS_UNKNOWNREFERER 6094                
+POS_UNKNOWNREFERERBROWSER 6303                
+POS_ORIGIN 6441                
+POS_SEREFERRALS 6581                
+POS_PAGEREFS 6725                
+POS_SEARCHWORDS 6983                
+POS_KEYWORDS 7135                
+POS_MISC 2355                
+POS_ERRORS 7194                
+POS_CLUSTER 3627                
+POS_SIDER_404 7343                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160501000146 672 181545 10735418938164
+FirstTime 20160401002911
+LastTime 20160430235409
+LastUpdate 20160501000624 14 0 13 0 0
+TotalVisits 82                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 15 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 25 813468 6 8 18208
+1 108 342 6565995 26 26 33669
+2 142 351 7627339 15 18 26703
+3 192 275 7797332 19 20 18208
+4 213 452 16012007 12 14 41638
+5 212 389 9698253 24 27 95563
+6 630 877 32387725 402 406 636038
+7 184 249 9295223 34 34 46857
+8 211 442 8103336 18 24 157140
+9 165 252 4024193 12 12 47743
+10 61 130 6669312 11 16 109846
+11 329 815 14577616 258 260 131710
+12 110 274 2763270 5 6 22654
+13 347 695 13413685 37 37 22654
+14 520 1013 22994069 35 40 45389
+15 403 593 10493411 28 31 190999
+16 279 459 8011989 13 14 59126
+17 231 391 2589117 14 14 18141
+18 135 135 70651 6 8 79002
+19 315 558 8038279 26 28 32207
+20 144 144 100689 4 4 28701
+21 77 78 78823 6 8 39864
+22 14 14 38316 4 5 31549
+23 21 37 326174 5 6 36986
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 5058 8990 192490272
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+yandex 91 781525 20160430231008 5
+bot[\s_+:,\.\;\/\\-] 5 50650 20160428101014 0
+surveybot 3 28826 20160429111100 1
+[\s_+:,\.\;\/\\-]bot 2 10904 20160403142047 0
+core 2 32367 20160424185227 0
+python 1 5467 20160408235517 0
+googlebot 1 5467 20160407052458 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 5 89796 0 0
+css 893 1983816 0 0
+png 1051 20596309 0 0
+woff 7 34948 0 0
+php 3782 114197234 0 0
+html 1263 39649373 0 0
+js 1501 4227797 0 0
+jpg 303 4191235 0 0
+doc 3 7210496 0 0
+Unknown 1 38113 0 0
+svg 16 24572 0 0
+gif 165 246583 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/robots.txt 6 0 402
+/wp-content/uploads/2016/04/%D0%BA%D0%BE%D0%BB.%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-2015-2018.doc 2 0 7168000
+/wp-content/uploads/2016/04/%D0%9F%D0%9E%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%95-%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BA%D1%83%D0%BB%D1%8C%D1%82-%D0%BC%D0%B0%D1%81%D1%81.-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.doc 1 0 42496
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 1
+linuxandroid 105
+winxp 73
+winnt 501
+Unknown 17
+winvista 19
+linux 8093
+win7 181
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 21
+firefox44.0 1
+chrome49.0.2623.110 1235
+chrome48.0.2564.82 1
+safari9.1 1
+chrome31.0.1650.57 2
+chrome36.0.1985.125 126
+firefox34.0 1
+curl 1
+opera9.80 1
+firefox3.0.5 1
+firefox45.0 5354
+chrome19.0.1084.5409 3
+chrome47.0.2526.111 566
+firefox16.0 20
+chrome37.0.2062.120 5
+chrome46.0.2486.0 39
+chrome49.0.2623.91 1549
+chrome49.0.2623.112 66
+Unknown 16
+firefox35.0 1
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Yo-yo 20160425075509
+Go_1.1_package_http 20160429175706
+GuzzleHttp/6.1.0_curl/7.35.0_PHP/5.5.9-1ubuntu4.14 20160422100504
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Yo-yo 20160425075509
+Go_1.1_package_http 20160429175706
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 212 235
+From1 0 0
+From2 0 0
+From3 5 5
+From4 4841 8750
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://burger-imperia.com 2 2
+http://pizza-tycoon.com 1 1
+http://pizza-imperia.com 1 1
+http://hundejo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 3 9904
+302 225 106030
+206 1 5989
+500 1 3347
+404 50 824166
+301 661 351
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 12
+/wp 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/wp
+/sitemap.xml 1 -
+/wp-admin/ 1 -
+/robots.txt 12 -
+/wp-admin 1 -
+/news 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/news
+/wp-admin/css/colors.min.css 4 http://xn--g1akdbaehef3a2a5g.xn--p1ai/wp-admin/admin-ajax.php
+/wordpress 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/wordpress
+/blog 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/blog
+/press 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/press
+/wp-content/themes/graphene/admin/images/default 25 http://xn--g1akdbaehef3a2a5g.xn--p1ai/wp-admin/post-new.php
+/main/ 1 http://xn--g1akdbaehef3a2a5g.xn--p1ai/wp-admin/post.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+178.215.112.224 4599 8234 171014411 20160430095702
+109.188.122.22 230 446 14903099 20160421155423
+46.146.10.49 126 126 458792 20160430235409
+80.245.252.228 44 100 5104866 20160428104350
+188.225.33.150 20 20 175264 20160428020520
+82.146.63.123 4 4 60656 20160428174418
+82.146.58.161 3 3 21923 20160425031248
+62.109.26.168 3 3 16371 20160411191243
+5.255.253.5 2 2 44570 20160427151424
+82.146.62.80 2 2 28759 20160429175706
+5.69.223.114 2 16 248135 20160417231729
+37.1.202.225 1 1 10534 20160422081915
+31.177.83.242 1 1 5467 20160413203306
+136.169.10.10 1 1 5467 20160415061832
+178.210.216.140 1 1 23292 20160429164629
+92.63.99.123 1 1 11004 20160426180620
+46.105.61.138 1 1 5467 20160411123609
+178.162.214.204 1 1 5452 20160402211010
+5.255.253.3 1 1 31589 20160427151424
+148.251.48.178 1 1 10534 20160422100504
+213.111.196.25 2 2 24759 20160429204559
+185.34.33.2 1 1 5467 20160406211723
+176.10.99.207 1 1 5467 20160414050819
+195.154.184.40 1 1 5467 20160413205030
+37.48.80.101 1 1 21363 20160418012012
+109.188.126.15 1 9 170863 20160426144916
+5.19.138.13 1 1 11004 20160425075509
+46.39.85.107 1 1 5452 20160402210940
+109.188.122.211 1 4 17029 20160426145101
+212.117.180.21 1 1 21363 20160417091718
+217.118.78.87 1 1 5467 20160411014955
+82.146.58.176 2 2 10919 20160409170247
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20160401 5 17 293138 3
+20160402 3 3 16356 3
+20160403 1 1 5452 1
+20160404 1 1 5452 1
+20160406 2 2 10919 2
+20160407 1 1 5467 1
+20160408 1 1 5467 1
+20160409 2 2 10934 2
+20160410 1 1 5467 1
+20160411 5 5 27335 5
+20160412 1 1 5467 1
+20160413 4 4 21868 4
+20160414 1 1 5467 1
+20160415 3 3 16401 3
+20160416 2 9 245363 2
+20160417 652 1137 32127210 8
+20160418 658 825 25325688 4
+20160419 15 16 33074 2
+20160421 231 448 14916102 2
+20160422 4 4 42136 4
+20160423 869 1123 12824907 2
+20160424 315 472 7207920 3
+20160425 3 3 33012 3
+20160426 308 611 10097320 6
+20160427 1500 3407 69355039 5
+20160428 87 259 8446355 5
+20160429 5 6 97104 4
+20160430 378 627 11303852 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 13
+5mn-15mn 2
+15mn-30mn 2
+0s-30s 63
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 69
+/wp-admin/admin-ajax.php 2719 4523577 3 12
+/ 958 28240696 66 62
+/wp-login.php 158 540766 6 2
+/wp-admin/load-scripts.php 154 27662019 0 1
+/wp-admin/admin.php 154 12199154 0 0
+/wp-admin/theme-editor.php 144 7571119 1 0
+/wp-admin/post.php 96 17498152 0 0
+/wp-admin/load-styles.php 58 15463941 0 0
+/wp-admin/ 49 2800167 0 0
+/wp-admin/edit.php 47 2526532 1 0
+/%d0%bf%d0%bb%d0%b0%d0%bd-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d0%bf%d1%80%d0%be%d1%84%d0%ba%d0%be%d0%bc%d0%b0-%d0%b2%d0%be-2-%d0%ba%d0%b2-2016-%d0%b3%d0%be%d0%b4%d0%b0/ 6 202918 0 1
+/wp-admin/post-new.php 23 3882628 0 0
+/cfmemailverification/sasaswa/ 1 25777 0 0
+/wp-admin/index.php 11 632852 0 0
+/wp-admin/users.php 2 77056 0 0
+/feed/ 4 30318 1 0
+/wp-admin/async-upload.php 7 12008 0 0
+/author/Legatron/ 2 59355 0 1
+/wp-admin/tools.php 5 185806 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17204 0 0
+/%D0%BF%D0%BB%D0%B0%D0%BD-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BF%D1%80%D0%BE%D1%84%D0%BA%D0%BE%D0%BC%D0%B0-%D0%B2%D0%BE-2-%D0%BA%D0%B2-2016-%D0%B3%D0%BE%D0%B4%D0%B0/ 1 31589 1 1
+/comments/feed/ 2 2027 0 0
+/%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d1%81%d0%b8%d0%b8-%d0%bf%d0%be-%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%bd%d0%be-%d0%bc%d0%b0%d1%81/ 5 134098 0 0
+/%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d1%81%d1%83%d0%b2%d0%b5%d0%bd%d0%b8%d1%80%d0%b0%d1%85-%d1%8e%d0%b1%d0%b5%d0%bb%d1%8f%d1%80%d0%b0%d0%bc/ 4 126022 0 0
+/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D0%BC%D0%B0%D1%81/ 1 22312 0 1
+/wp-admin/plugins.php 17 752349 0 0
+/main/ 37 1046473 1 0
+/wp-admin/widgets.php 3 237873 0 0
+/wp-admin/nav-menus.php 24 1722860 0 0
+/wp-admin/about.php 4 132486 0 0
+/category/%d0%bf%d1%80%d0%be%d1%84%d0%ba%d0%be%d0%bc/ 1 17832 0 1
+/wp-admin/import.php 1 31950 0 0
+/main 1 38113 0 0
+/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%BD%D0%B0-2015-2018-%D0%B3%D0%BE%D0%B4%D1%8B/ 1 22258 1 0
+/wp-admin/upload.php 1 94605 0 0
+/wp-admin/customize.php 45 12847730 0 0
+/main/uncategorized/ 1 32057 0 0
+/wp-admin/options-reading.php 9 292617 0 0
+/wp-includes/fonts/dashicons.eot 5 89796 0 0
+/wp-admin/plugin-editor.php 3 179378 0 0
+/2016/04/ 4 84308 0 0
+/%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81-%d0%be%d1%82%d0%b2%d0%b5%d1%82/ 40 2413977 1 0
+/category/%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%bd%d0%be-%d0%bc%d0%b0%d1%81%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0/ 1 17725 0 0
+/sample-page/ 35 1037842 0 0
+/%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d0%b6%d0%bd%d1%8b%d0%b9-%d1%81%d0%be%d0%b2%d0%b5%d1%82/ 3 88983 0 0
+/wp-admin/theme-install.php 5 219225 0 0
+/%d0%be-%d0%bd%d0%b0%d1%81/ 5 155779 0 0
+/wp-admin/edit-tags.php 1 46431 0 0
+/%d0%be%d0%b1%d1%8a%d1%8f%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f/ 3 95207 0 0
+/wp-admin/plugin-install.php 5 543695 0 0
+/contacts/ 8 269551 0 0
+/%d0%ba%d0%be%d0%bb%d0%bb%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d0%bd%d1%8b%d0%b9-%d0%b4%d0%be%d0%b3%d0%be%d0%b2%d0%be%d1%80-%d0%bd%d0%b0-2015-2018-%d0%b3%d0%be%d0%b4%d1%8b/ 11 298211 0 0
+/%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%b8%d0%b2%d0%bd%d0%be-%d0%be%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d0%b8%d1%82%d0%b5%d0%bb%d1%8c%d0%bd/ 5 175550 0 0
+/%d1%81%d0%be%d1%81%d1%82%d0%b0%d0%b2-%d0%b8-%d0%ba%d0%be%d0%bc%d0%b8%d1%81%d1%81%d0%b8%d0%b8/ 36 1362914 0 0
+/hello-world/ 1 23934 0 0
+/wp-admin/options-permalink.php 12 390157 0 0
+/wp-admin/profile.php 8 355036 0 0
+/wp-admin/options-writing.php 4 130348 0 0
+/wp-admin/options-media.php 2 59423 0 0
+/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/ 34 736525 0 0
+/wp-admin/update.php 6 150953 0 0
+/category/uncategorized/ 3 58674 0 0
+/%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%b8/ 1 36294 0 0
+/wp-content/themes/graphene/fonts/genericons/genericons-regular-webfont.woff 6 17744 0 0
+/wp-admin/edit-comments.php 6 326864 0 0
+/wp-admin/themes.php 20 1661712 0 0
+/wp-admin/options-discussion.php 7 280862 0 0
+/wp-admin/options-general.php 8 555532 0 0
+/wp-admin/update-core.php 13 409538 0 0
+END_SIDER
